@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{60DE8C22-4446-92BA-ABC0-D782BB786D6D}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "AnimTool",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
